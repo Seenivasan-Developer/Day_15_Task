@@ -1,0 +1,22 @@
+body{
+    background-color: gray;
+}
+.box{
+    text-align: center;
+    margin-top: 200px;
+}
+#counter{
+    font-size:100px;
+}
+.main{
+    color:#FF9933;
+}
+.main1{
+    color:white;
+}
+.main2{
+    color: green;
+}
+.main3{
+    color:navy;
+}
